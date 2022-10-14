@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ConstanceBeguier
+- 👀 I’m interested in cryptography and more specifically SMC, ZK, DP
+- 🌱 I’m currently learning Web3 ecosystem
